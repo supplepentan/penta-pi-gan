@@ -1,0 +1,12 @@
+venv/
+venv-wsl/
+CARLA.zip
+Cats.zip
+CelebA.zip
+__MACOSX/
+__pycache__/
+CARLA/
+Cats/
+CelebA/
+vids/
+imgs/
